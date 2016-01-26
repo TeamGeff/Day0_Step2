@@ -26,15 +26,15 @@ Print the name of the program thats executing.
 
 ### Instructions for Git and getting stuff to GitHub
 First step was getting git installed in the terminal. This was done by typing 
-  git --version
+    git --version
 and having tools download automatically.
 Then, we created a folder, initialised a project using:
-  git init
+    git init
 and then proceeded to copy the files into the project directory. Then, having all the files in the right folder, we added them, then commit in two parts.
-  git add *.c
-  git commit -m "Commit text"
+    git add *.c
+    git commit -m "Commit text"
 After all changes were committed, we pushed tho the master branch of the remote repository
-  git push -u origin master
+    git push -u origin master
   
 Thus, we had the files online, and in the same project. (We made the README.md file, online (: 
 )
