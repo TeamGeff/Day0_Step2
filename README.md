@@ -38,3 +38,4 @@ After all changes were committed, we pushed tho the master branch of the remote 
   
 Thus, we had the files online, and in the same project. (We made the README.md file, online (: 
 )
+ 
